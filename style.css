@@ -78,6 +78,7 @@ body {
     font-weight: 900;
     color: hsl(223, 47%, 23%);
     transition: color .3s ease;
+    text-decoration: none;
 }
 .plan-box a:hover {
     text-decoration: none;
