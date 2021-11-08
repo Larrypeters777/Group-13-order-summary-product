@@ -114,7 +114,9 @@ a.cancel-btn:hover {
     display: block;
     padding-top: 60%;
 }
-
+.attribution a{
+    text-decoration: none;
+}
 
 
 @media only screen  and (max-width: 425px) {
